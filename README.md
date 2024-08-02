@@ -1,1 +1,2 @@
 # Customer-Segmentation-of-Mall-data
+Understanding your customers is crucial for businesses. In this project, we will work with a customer dataset and use SQL to segment customers based on attributes such as demographics, purchasing behavior, or engagement metrics. By creating customer segments, we will gain insights into different customer groups, enabling you to develop targeted marketing strategies and enhance customer satisfaction. This project highlights the ability to identify valuable customer segments and provide actionable insights for marketing and sales teams.
